@@ -10,3 +10,5 @@
 4. run :PlugInstall in vim to install plugins
 
 5. run :checkhealth in vim to make sure plugins are working
+
+Note: Don't git pull file-paths.vimrc or the paths you entered will be reset.
