@@ -1,1 +1,12 @@
-# Linux Dotfiles for configuration
+#Installation Guide
+
+
+1. clone this repository to your home directory
+
+2. link your vimrc to init.vim in the folder nvim
+
+3. update file-paths.vimrc to contain paths to your python installations
+
+4. run :PlugInstall in vim to install plugins
+
+5. run :checkhealth in vim to make sure plugins are working
