@@ -84,7 +84,7 @@ autocmd BufEnter * call ncm2#enable_for_buffer()
 " IMPORTANT: :help Ncm2PopupOpen for more information
 set completeopt=noinsert,menuone,noselect
 
-source $HOME/dotfiles/nvim/config/file-paths.vimrc
+source $HOME/dotfiles/file-paths.vimrc
 
 
 " ###################### Julia
