@@ -41,13 +41,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'mhinz/vim-grepper'
 
 " colorscheme
-"Plug 'wombat256mod.vim'
-Plug 'nanotech/jellybeans.vim'
-Plug 'chriskempson/base16-vim'
 Plug 'morhetz/gruvbox'
-Plug 'w0ng/vim-hybrid'
-Plug 'tpope/vim-vividchalk'
-Plug 'lokaltog/vim-distinguished'
 
 " dispatch plugin
 Plug 'tpope/vim-dispatch'

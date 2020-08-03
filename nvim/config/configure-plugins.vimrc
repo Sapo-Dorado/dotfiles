@@ -84,8 +84,7 @@ autocmd BufEnter * call ncm2#enable_for_buffer()
 " IMPORTANT: :help Ncm2PopupOpen for more information
 set completeopt=noinsert,menuone,noselect
 
-let g:python3_host_prog = '/Users/nicholas/miniconda3/envs/nvimPython3/bin/python3'
-let g:python_host_prog = '/Users/nicholas/miniconda3/envs/nvimPython/bin/python'
+source $HOME/dotfiles/nvim/config/file-paths.vimrc
 
 
 " ###################### Julia

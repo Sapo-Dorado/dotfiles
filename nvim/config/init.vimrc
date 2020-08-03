@@ -42,9 +42,7 @@ endif
 " ================ Visualization ====================
  
 syntax on
-" colorscheme hybrid
-set t_Co=256
-" enable 256bit colors - also: override gnome-terminal's settings
+colorscheme gruvbox
 set background=dark
 
 " ================ Indentation ======================
